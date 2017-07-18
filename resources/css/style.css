@@ -21,7 +21,7 @@ nav a {
  margin-right: 10px;
 }
 
-.container-all {
+.content {
 display: flex;
 width: 1232px;
 margin: 0 auto 70px;
@@ -39,7 +39,8 @@ justify-content: center;
 }
 
  }
-.column-large h1 {
+.column-large {
+ display: flex;
  width: 630px;
  height: 300px;
  text-align: left;
@@ -51,11 +52,16 @@ justify-content: center;
 }
 
 .column-medium{
+ display: flex;
+ width: 630px;
+ height: 300px;
+ text-align: left;
+
 
 }
 
 .column-small{
-	
+display: flex;
 }
 
 
