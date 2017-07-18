@@ -37,9 +37,7 @@ justify-content: center;
  padding-left: 20px;
  border: 1px solid black;
 }
-.column-large {
- border: 1px solid black;
- width: 630px;
+
  }
 .column-large h1 {
  width: 630px;
@@ -51,11 +49,13 @@ justify-content: center;
  font-size: 40px;
  color: white;
 }
-.column-large p {
- font-family: Georgia;
- font-size: 17px;
- color: black;
+
+.column-medium{
+
 }
 
+.column-small{
+	
+}
 
 
