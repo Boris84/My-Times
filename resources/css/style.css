@@ -1,11 +1,11 @@
 
 header {
- dispqlay: flex;
+ display: flex;
  align-items: center;
  font-weight: bold;
  font-family: verdana;
  font-size: 14px;
- border: 1px solid black;
+ border-bottom:  1px solid black;
 }
 
 header  span {
