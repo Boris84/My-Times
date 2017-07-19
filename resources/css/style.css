@@ -57,6 +57,13 @@ display: flex;
 width: 630px;
 }
 
+.fall.season {
+background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-2.png);
+}
+
+.pop-culture .image-content{
+background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-3.png);
+}
 
 .narrative {
  margin-top: 16px;
