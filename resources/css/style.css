@@ -1,11 +1,16 @@
 
 header {
  display: flex;
+ position: fixed;
  align-items: center;
  font-weight: bold;
  font-family: verdana;
  font-size: 14px;
+ width: 100%;
+ height: 80px;
  border-bottom:  1px solid black;
+ background-color: white;
+ top: 0;
 }
 
 header  span {
@@ -15,9 +20,12 @@ header  span {
 
 nav a {
 display: inline-block;
-color: black;
 text-align: justify;
-margin-right: 10px;
+padding-right: 40px;
+margin-right: 50px;
+margin: auto;
+align-content: flex-end;
+color: black;
 }
 
 .content {
